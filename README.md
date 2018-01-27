@@ -1,1 +1,1 @@
-# commonappforschools
+# Common app for schools
